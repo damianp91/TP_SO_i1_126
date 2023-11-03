@@ -6,3 +6,4 @@ a-Si, ya que al hacer push los cambios de mis compañeros se guardan en el repos
 b-Si, ya que al agregar los archivos y los cambios desde github ya se guardan en el repositorio
 c-Se ven los cambios que realizo yo a los archivos, asi que se puede asumir que si creo un archivo se deberia ver
 d-Nos comunicamos a través de discord y los commits del repositorio.
+e-En nuestra experiencia, los commits son de gran utilidad para ver los cambios que hizo cada integrante en cada archivo. Tambien en la solapa de proyects uno puede marcar las tareas por hacer y las tareas realizadas, dando una breve explicación o comentario.
